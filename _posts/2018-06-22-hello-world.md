@@ -1,2 +1,2 @@
-# Hello World
-Hello everybody **this is my first blog post** I am very exited :smile:
+title: "Welcome to my first post"
+date: 2018-06-22
